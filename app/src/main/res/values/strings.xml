@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CritpoApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="search">search</string>
+    <string name="not_found">not found</string>
+    <string name="_1m">_1m</string>
+    <string name="_1w">_1w</string>
+    <string name="_1d">_1d</string>
+    <string name="_4h">_4h</string>
+    <string name="_1h">_1h</string>
+    <string name="_15m">_15m</string>
+    <string name="empty_watchlist">empty_watchlist</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
